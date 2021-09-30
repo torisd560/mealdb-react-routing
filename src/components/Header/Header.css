@@ -1,0 +1,9 @@
+.header{
+    background: #23180d;
+}
+.selected {
+    color: rgb(233, 229, 229);
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 10px;
+}
